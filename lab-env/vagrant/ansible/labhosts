@@ -1,0 +1,7 @@
+control:
+  hosts:
+    control:
+nodes:
+  hosts:
+    node1:
+    node2:

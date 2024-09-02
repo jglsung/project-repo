@@ -1,1 +1,4 @@
-ignorethis
+forgotten
+forgotten/**
+/lab-env/vagrant/.vagrant
+/lab-env/vagrant/.vagrant/**
